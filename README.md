@@ -1,3 +1,3 @@
 # myModal
-This is my  Modal Window
+This is my pugin Modal Window
 See here: https://v1nya.github.io/myFirstModal/
